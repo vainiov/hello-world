@@ -1,1 +1,1 @@
-# crypptograph solver
+# cryptograph solver
